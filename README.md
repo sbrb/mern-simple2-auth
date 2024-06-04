@@ -1,1 +1,1 @@
-# mern-simple-auth
+# mern-simple2-auth
